@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/codevski/React-Video-Browser.svg?branch=develop)](https://travis-ci.org/codevski/React-Video-Browser)
+[![Build Status](https://travis-ci.org/codevski/React-Book-Collection.svg?branch=develop)](https://travis-ci.org/codevski/React-Book-Collection)
 # React Book Collection
 
 A simple book collection written in React / Redux
